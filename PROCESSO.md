@@ -69,3 +69,8 @@ Resultado: aproximadamente 13,6 mA, uma corrente adequada para muitos LEDs verme
 4. **TEMPO_APAGADO para 500 ms a cada 3 s:** 2500 ms
 
 Declaro que respondi a etapa Comprovar sem IA: sim
+
+
+Print da luz piscando:
+
+<img src="assets/print_wokwi.png" alt="Print da luz piscando">
